@@ -1,0 +1,14 @@
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\bin\Debug\net8.0\Lab07_03.exe
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\bin\Debug\net8.0\Lab07_03.deps.json
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\bin\Debug\net8.0\Lab07_03.runtimeconfig.json
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\bin\Debug\net8.0\Lab07_03.dll
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\bin\Debug\net8.0\Lab07_03.pdb
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\obj\Debug\net8.0\Lab07_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\obj\Debug\net8.0\Lab07_03.AssemblyInfoInputs.cache
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\obj\Debug\net8.0\Lab07_03.AssemblyInfo.cs
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\obj\Debug\net8.0\Lab07_03.csproj.CoreCompileInputs.cache
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\obj\Debug\net8.0\Lab07_03.dll
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\obj\Debug\net8.0\refint\Lab07_03.dll
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\obj\Debug\net8.0\Lab07_03.pdb
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\obj\Debug\net8.0\Lab07_03.genruntimeconfig.cache
+D:\KrNU\2 course\OOP_Language\Lab07\Lab07_03\Lab07_03\obj\Debug\net8.0\ref\Lab07_03.dll
